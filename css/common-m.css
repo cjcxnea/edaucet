@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family:
+    "微软雅黑",
+    NeeaSimsun-Regular,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    Arial,
+    sans-serif;
+  box-sizing: border-box;
+  outline: none;
+}
+body {
+  background: #fff;
+  color: #000;
+  word-wrap: break-word;
+}
+
+.page-nav {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+.nav-bar,
+.search-menu,
+.nav-menu,
+.nav-menu ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-bar {
+  width: 100%;
+  padding: .5rem .625rem;
+  background: #fff;
+}
+.nav-bar a {
+  text-decoration: none;
+}
+.nav-bar a img {
+  width: 9.125rem;
+  max-height: 2.25rem;
+}
+.dt-nav-info {
+  display: none;
+}
+.search-menu {
+  gap: .9375rem;
+}
+.search-menu-left,
+.search-menu-right {
+  display: inline-block;
+  width: 1.25rem;
+  height: 1.25rem;
+}
+.search-menu-left {
+  background: url(../img/search.png) 100% center / cover no-repeat;
+}
+.search-menu-right {
+  background: url(../img/menu.png) 100% center / cover no-repeat;
+}
+
+.nav-menu {
+  width: 100%;
+  background: #003f7e;
+}
+.dt-nav-menu-home {
+  display: none;
+}
+.nav-menu ul {
+  gap: 40px;
+  padding: 0 19.2px;
+  margin: 0 auto;
+  height: 2.25rem;
+  line-height: 2.25rem;
+  list-style: none;
+  white-space: nowrap;
+  overflow: auto;
+}
+
+.nav-menu ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1rem;
+}
+.nav-menu i {
+  font-style: inherit;
+  color: #fff;
+  margin-right: .3125rem;
+}
+
+.page-footer {
+  width: 100%;
+  padding-bottom: .625rem;
+  background: #F5F5F5;
+}
+.footer-nav ul,
+.footer-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-nav {
+  padding: .625rem 0 0 0;
+  margin: 0 auto;
+}
+.footer-nav ul li {
+  list-style: none;
+}
+.footer-nav ul li a {
+  font-size: .75rem;
+  color: #303d5d;
+  text-decoration: none;
+  margin: 0 .625rem;
+}
+.footer-info {
+  padding: .625rem 0 0 0;
+  gap: 2vmin;
+}
+.footer-info-img a,
+.footer-info-text a {
+  color: #303d5d;
+  text-decoration: none;
+  object-fit: cover;
+}
+.footer-info-img a img {
+  width: 8vmin;
+  height: 8vmin;
+}
+.footer-info-text {
+  color: #303D5D;
+  font-size: 3vmin;
+  line-height: 1.6;
+}
+.footernifo-text p span {
+  margin: .3125rem;
+}
+.footer-info-text img {
+  width: 1rem;
+  height: 1rem;
+  vertical-align: middle;
+}
+
+.dt-footer-tips,
+.dt-footer-info-text,
+.dt-footer-info-text,
+aside,
+.current-position a img  {
+  display: none;
+}
