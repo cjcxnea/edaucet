@@ -1,0 +1,50 @@
+{
+  "userInfo": [
+    {
+      "id": "1001",
+      "testSub": "全国大学英语六级考试(CET6)",
+      "uname": "张三",
+      "idCard": "410115200020130025",
+      "schoolName": "北京大学",
+      "reportNum": "0",
+      "examNum": "20260101",
+      "totalScore": "450",
+      "listening": "150",
+      "reading": "150",
+      "writing": "150",
+      "speakingExamNum": "--",
+      "speakingScore": "--",
+      "password": "123456"
+    },
+    {
+      "id": "1002",
+      "testSub": "全国大学英语六级考试(CET6)",
+      "uname": "卢思言",
+      "idCard": "430602200704260161",
+      "schoolName": "陕西理工大学",
+      "reportNum": "252214050001473",
+      "examNum": "140500252203168",
+      "totalScore": "502",
+      "listening": "163",
+      "reading": "177",
+      "writing": "162",
+      "speakingExamNum": "--",
+      "speakingScore": "--",
+      "password": "2007siyan！"
+    }
+  ],
+  "verifyInfo": [
+    {
+      "picName": "verif-code-1.jpg",
+      "code": "yn28"
+    },
+    {
+      "picName": "verif-code-2.jpg",
+      "code": "62wg"
+    },
+    {
+      "picName": "verif-code-3.jpg",
+      "code": "kdpc"
+    }
+  ]
+}
