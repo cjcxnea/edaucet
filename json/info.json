@@ -31,6 +31,22 @@
       "speakingExamNum": "--",
       "speakingScore": "--",
       "password": "2007siyan!"
+    },
+    {
+      "id": "1003",
+      "testSub": "全国大学英语四级考试(CET4)",
+      "uname": "解宏庆",
+      "idCard": "140202199809205517",
+      "schoolName": "山西医科大学",
+      "reportNum": "252214005005832",
+      "examNum": "140051252201038",
+      "totalScore": "477",
+      "listening": "145",
+      "reading": "176",
+      "writing": "156",
+      "speakingExamNum": "--",
+      "speakingScore": "--",
+      "password": "Xhq0920!"
     }
   ],
   "verifyInfo": [
