@@ -47,6 +47,22 @@
       "speakingExamNum": "--",
       "speakingScore": "--",
       "password": "Xhq0920!"
+    },
+    {
+      "id": "1004",
+      "testSub": "全国大学英语四级考试(CET4)",
+      "uname": "王芙妲",
+      "idCard": "220881200102123925",
+      "schoolName": "吉林艺术学院",
+      "reportNum": "0",
+      "examNum": "430141212105429",
+      "totalScore": "432",
+      "listening": "137",
+      "reading": "159",
+      "writing": "136",
+      "speakingExamNum": "--",
+      "speakingScore": "--",
+      "password": "010212"
     }
   ],
   "verifyInfo": [
